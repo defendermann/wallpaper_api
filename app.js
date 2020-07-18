@@ -7,7 +7,7 @@ app.use(cors({optionSuccessStatus: 200}))
 app.use(express.static('public'))
 
 
-app.get('/featured', (req, res) => {
+app.get('/featured.json', (req, res) => {
    const jsonPath = __dirname + '/data/featuredWalls.json'
    res.sendFile(jsonPath)
 })
