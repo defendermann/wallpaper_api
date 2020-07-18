@@ -16,5 +16,5 @@ app.get('/', (req, res) => {
     res.sendFile(__dirname + '/views/walls.html') 
 })
 
-const port = 3000
+const port = process.env.PORT || 8000
 app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`))
