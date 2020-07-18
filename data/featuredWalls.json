@@ -1,0 +1,26 @@
+{
+    "walls": [
+    {"title": "Summer",
+      "url": "https://user-images.githubusercontent.com/46933160/86725791-96985c80-c047-11ea-870d-7c2519bb55c3.jpg"
+    },
+    
+    {"title": "Summer2",
+      "url": "https://user-images.githubusercontent.com/46933160/86875532-5f39b680-c100-11ea-86ff-993430575abd.jpg"
+    },
+        {"title": "Summer3",
+      "url": "https://user-images.githubusercontent.com/46933160/86875546-682a8800-c100-11ea-83e8-886e0df159a5.jpg"
+    },
+        {"title": "Summer4",
+      "url": "https://user-images.githubusercontent.com/46933160/86875590-7d9fb200-c100-11ea-9c9d-3972af3ab9ad.jpg"
+    },
+        {"title": "Summer5",
+      "url": "https://user-images.githubusercontent.com/46933160/86875609-85f7ed00-c100-11ea-87b1-0b511e7be90f.jpg"
+    },
+        {"title": "Summer6",
+      "url": "https://user-images.githubusercontent.com/46933160/86875576-75477700-c100-11ea-8f63-412effa5d58a.png"
+    },
+        {"title": "Summer2",
+      "url": "https://user-images.githubusercontent.com/46933160/86726774-7a48ef80-c048-11ea-8d5e-087a645b8e16.png"
+    }
+  ]
+}
